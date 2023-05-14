@@ -1,0 +1,9 @@
+.container-notfound{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error{
+    font-size: 43px;
+}
